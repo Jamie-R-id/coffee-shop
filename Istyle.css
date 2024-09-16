@@ -101,3 +101,15 @@ img {
 #reviews > div {
     width: 30%;
 }
+
+
+table, th, td {
+    color: #C9E5E8;
+    border: solid;
+}
+
+footer > div {
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+}
