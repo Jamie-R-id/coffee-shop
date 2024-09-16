@@ -77,3 +77,8 @@ img {
 .menu > div > p {
     padding: 0%;
 }
+
+
+@media screen and (max-width: 400px) {
+    #brand{padding-right: 20%;}
+}
