@@ -82,3 +82,22 @@ img {
 @media screen and (max-width: 400px) {
     #brand{padding-right: 20%;}
 }
+
+#location {
+    padding-top: 20px;
+}
+
+#location > p{
+    padding: 1px;
+}
+
+#reviews {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+}
+
+
+#reviews > div {
+    width: 30%;
+}
